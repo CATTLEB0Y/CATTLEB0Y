@@ -14,7 +14,7 @@
    about me 
   </summary>
    <p align="right">
-hi! you can call me reverie, dawn, or anything you'd like! 
+hi! you can call me reverie, dawn, dakota, or anything you'd like! 
 </br>
       im based in midwestern USA, my timezone is EST :-) 
 </br>
