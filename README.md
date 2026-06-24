@@ -4,7 +4,8 @@
 <!--foal-->
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=cattleb0y&color=yellow" alt="HOWDY!" />
+   <a href="https://github.com/cattleb0y/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=cattleb0y&color=yellow&style=plastic&label=HOWDY!" /> <!-- profile counter -->
  </div>   
 
 <div align="left">    
